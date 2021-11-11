@@ -1,0 +1,5 @@
+name: Mekan
+main: mekan\main
+api: 3.9.4
+version: 1.0
+author: berkay
